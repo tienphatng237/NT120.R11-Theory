@@ -1,0 +1,6 @@
+# NT120 — Lecture 03 notebook dependencies
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
